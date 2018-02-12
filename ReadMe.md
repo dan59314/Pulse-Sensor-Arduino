@@ -52,18 +52,18 @@
   
 Introduction, document, videos....
 
-    https://www.instructables.com/id/Arduino-Pulse-Sensor/
+https://www.instructables.com/id/Arduino-Pulse-Sensor/
 
 All souce code, schematics, paper download here
 
-    https://www.dropbox.com/sh/iy5nacruhfk7c28/AADUfQW...
+https://www.dropbox.com/sh/iy5nacruhfk7c28/AADUfQW...
 
 
 
 
 More projects and freewares here
 
-    https://www.instructables.com/member/Daniel%20Lu/instructables/
+https://www.instructables.com/member/Daniel%20Lu/instructables/
 
-    http://www.rasvector.url.tw/hot_91270.html
+http://www.rasvector.url.tw/hot_91270.html
 
