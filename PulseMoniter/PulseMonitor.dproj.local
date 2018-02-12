@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/20 22:44:02.000.500,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/20 22:45:27.000.780,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\PulseMoniter\Main.fmx=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2015/10/20 22:45:27.000.780,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\PulseMoniter\Main.pas=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/20 22:45:32.000.350,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\PulseMoniter\PulseMonitor.dproj=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="AVD_for_AsusZF3_Device"/>
+		<PMacOSXVMWare iOSSimulator="iPhone5"/>  <PIPhoneSimulater iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

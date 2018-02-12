@@ -1,0 +1,28 @@
+inherited Form1_Windows: TForm1_Windows
+  DesignerMasterStyle = 0
+  inherited TabControl1: TTabControl
+    Sizes = (
+      499s
+      424s
+      499s
+      424s)
+    inherited Setting: TTabItem
+      ExplicitSize.cx = 204.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited ListBox1: TListBox
+        Viewport.Width = 117.000000000000000000
+        Viewport.Height = 0.000000000000000000
+      end
+      inherited Layout2: TLayout
+        inherited Memo1: TMemo
+          Viewport.Width = 378.000000000000000000
+          Viewport.Height = 277.000000000000000000
+        end
+      end
+    end
+    inherited Moniter: TTabItem
+      ExplicitSize.cx = 201.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+  end
+end
