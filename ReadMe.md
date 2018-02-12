@@ -1,4 +1,6 @@
 
+
+
  ---------------------------------------------------------------------------------
 
   Copyright: (C) Daniel Lu, RasVector Technology.
@@ -46,6 +48,11 @@
   
   
   ---------------------------------------------------------------------------------
+  
+  
+Introduction, document, videos....
+https://www.instructables.com/member/Daniel%20Lu/instructables/
+
 
 All souce code, schematics, paper download here
 
