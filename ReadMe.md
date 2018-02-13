@@ -61,9 +61,16 @@ https://www.dropbox.com/sh/iy5nacruhfk7c28/AADUfQW...
 
 
 
-More projects and freewares here
+More projects in Instructables:
 
 https://www.instructables.com/member/Daniel%20Lu/instructables/
+
+
+      
+------------------------------------------------------------------------------------      
+Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
+
+https://github.com/dan59314
 
 http://www.rasvector.url.tw/hot_91270.html
 
