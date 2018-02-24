@@ -52,7 +52,7 @@
  
 [Heartbeat Indicator ](https://youtu.be/0CKQ7as65yc)
 
-[Arduino Pulse Sensor]((https://youtu.be/p0KdO7rtU7o)
+[Arduino Pulse Sensor](https://youtu.be/p0KdO7rtU7o)
 
   [![Arduino Pulse Sensor](https://cdn.instructables.com/FM8/R34L/IHUWIIGO/FM8R34LIHUWIIGO.LARGE.jpg)](https://youtu.be/p0KdO7rtU7o?t=0s "Arduino Pulse Sensor") 
   
