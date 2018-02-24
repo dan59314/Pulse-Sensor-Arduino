@@ -67,14 +67,13 @@ https://www.dropbox.com/sh/iy5nacruhfk7c28/AADUfQW...
 
 
 
-More projects in Instructables:
+------------------------------------------------------------------------------------      
+Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
 
 https://www.instructables.com/member/Daniel%20Lu/instructables/
 
 ![image](https://github.com/dan59314/Pulse-Sensor-Arduino/blob/master/Instructables01.JPG)
       
-------------------------------------------------------------------------------------      
-Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
 
 https://github.com/dan59314
 
