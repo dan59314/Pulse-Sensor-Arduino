@@ -54,7 +54,7 @@
 
 [Arduino Pulse Sensor](https://youtu.be/p0KdO7rtU7o)
 
-  [![Arduino Pulse Sensor](https://cdn.instructables.com/FM8/R34L/IHUWIIGO/FM8R34LIHUWIIGO.LARGE.jpg)](https://youtu.be/p0KdO7rtU7o?t=0s "Arduino Pulse Sensor") 
+[![Arduino Pulse Sensor](https://cdn.instructables.com/FM8/R34L/IHUWIIGO/FM8R34LIHUWIIGO.LARGE.jpg)](https://youtu.be/p0KdO7rtU7o?t=0s "Arduino Pulse Sensor") 
   
 ---------------------------------------------------------------------------------
 Introduction, document, videos....
@@ -67,12 +67,11 @@ https://www.dropbox.com/sh/iy5nacruhfk7c28/AADUfQW...
 
 
 
-
 More projects in Instructables:
 
 https://www.instructables.com/member/Daniel%20Lu/instructables/
 
-
+![image](https://github.com/dan59314/Pulse-Sensor-Arduino/blob/master/Instructables01.JPG)
       
 ------------------------------------------------------------------------------------      
 Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
