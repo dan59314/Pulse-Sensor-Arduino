@@ -47,9 +47,10 @@
   使用或修改軟體，請註明引用出處資訊如上。未經過作者明示同意，禁止使用在商業用途。
   
   
-  ---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+  [![Arduino Pulse Sensor](https://cdn.instructables.com/FM8/R34L/IHUWIIGO/FM8R34LIHUWIIGO.LARGE.jpg)](https://youtu.be/p0KdO7rtU7o?t=0s "One Digit Recognizing") 
   
-  
+---------------------------------------------------------------------------------
 Introduction, document, videos....
 
 https://www.instructables.com/id/Arduino-Pulse-Sensor/
